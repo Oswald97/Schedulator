@@ -1,0 +1,26 @@
+matieres,,,,
+code,intitule,type,heures,divisible
+ANGL101,Anglais General,lec,3,1
+MATH110,Mathematiques,lec,3,0
+TNI101,Traitement Numerique de l’Image,lec,4,0
+TNI101T,TP Traitement Numerique de l’Image,lab,2,0
+RESO101,Normes et Protocoles,lec,2,0
+RESO101L,Reseaux Locaux,lab,2,1
+MATH101,Probabilite et Processus Aleatoire,lec,1,0
+TA101,Transmission Analogique,lec,3,0
+MATH111,Cryptographie,lec,3,0
+ASR101,Administration Systemes et Resaux,lab,1,0
+TNS101,Traitement Numerique du signal,lec,2,0
+EG101,Electricite Generale,lec,2,0
+FE101,Fonctions Electronique,lec,3,0
+OS101,Systemes d’exploitation,lec,3,0
+TLI201,Theorie des Langages et Interpreteur,lec,4,0
+SYS201,Systemes Embarques,lec,2,0
+TG201,Theorie des Graphes,lec,3,0
+IAA201,Intelligence Artificielle et Application,lec,4,0
+Cpp101,Programmation Cpp,lab,3,0
+Java101,Programmation Java,lec,3,0
+CLP201,Circuits Logique Programmable,lec,3,0
+UML201,Unified Modeling Langage,lec,3,0
+TNP201,Traitement Numerique de la Parole,lec,4,0
+TCOM201,Introduction a la TCOM,lec,2,0

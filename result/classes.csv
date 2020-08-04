@@ -1,0 +1,30 @@
+SI1
+Heure,Lundi,Mardi,Mercredi,Jeudi,Vendredi,Samedi
+7:00-8:00,,,,,,
+8:00-9:00,,,,TNI101 - Cap24 - ,MATH110 - E2610 - ,
+9:00-10:00,,,TNI101T - Laetia - ,TNI101 - Cap24 - ,MATH110 - E2610 - ,
+10:00-11:00,,,TNI101T - Laetia - ,TNI101 - Cap24 - ,MATH110 - E2610 - ,
+11:00-12:00,,,,TNI101 - Cap24 - ,RESO101 - E2610 - ,
+12:00-13:00,,ANGL101 - Cap24 - ,,ANGL101 - Cap24 - ,RESO101 - E2610 - ,
+13:00-14:00,,,,,,
+14:00-15:00,,,,,,
+15:00-16:00,,,,,,
+16:00-17:00,,,,,,
+17:00-18:00,,,,,,
+18:00-19:00,,,,,,
+""
+SI2
+Heure,Lundi,Mardi,Mercredi,Jeudi,Vendredi,Samedi
+7:00-8:00,,,,,,
+8:00-9:00,,TCOM201 - Amphi B - ,Java101 - Amphi B - ,CLP201 - Amphi A - ,,
+9:00-10:00,,TCOM201 - Amphi B - ,Java101 - Amphi B - ,CLP201 - Amphi A - ,,
+10:00-11:00,,Cpp101 - B2610 - ,Java101 - Amphi B - ,CLP201 - Amphi A - ,,
+11:00-12:00,,Cpp101 - B2610 - ,,UML201 - E2645 - ,,
+12:00-13:00,,Cpp101 - B2610 - ,,UML201 - E2645 - ,,
+13:00-14:00,,TNP201 - Amphi A - ,,UML201 - E2645 - ,,
+14:00-15:00,,TNP201 - Amphi A - ,,,,
+15:00-16:00,,TNP201 - Amphi A - ,,,,
+16:00-17:00,,TNP201 - Amphi A - ,,,,
+17:00-18:00,,,,,,
+18:00-19:00,,,,,,
+""
